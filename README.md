@@ -17,6 +17,7 @@
 thats it!
 
 --- 
-[!!WARNING] this app is only for educationnal purpose
+[!WARNING] 
+this app is only for educationnal purpose
 
 # node-chat--app-scratch-educ
